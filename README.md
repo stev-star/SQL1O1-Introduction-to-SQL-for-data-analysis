@@ -11,7 +11,7 @@ SQL is one of the most commonly used and flexible languages, as it combines a su
 
 
 ## Why  do data analyst need SQL? 
-1. SQL skills are in high demand.  The pure amount of data produced globally continues to grow at an alarming rate With this increase in the quantity of data has also    come substantial growth in the application of that data across industries. From data science to marketing, to healthcare, professionals with the SQL skills            necessary to properly handle this large amount of data are in increasingly high demand.
+- SQL skills are in high demand.  The pure amount of data produced globally continues to grow at an alarming rate With this increase in the quantity of data has also    come substantial growth in the application of that data across industries. From data science to marketing, to healthcare, professionals with the SQL skills            necessary to properly handle this large amount of data are in increasingly high demand.
 
 2. SQL is easy to use. it’s simple and easy to learn compared to some of the more complex processes  For example, languages like Java require memorization of a series    of steps to complete a task, whereas SQL uses declarative statements to pull data.
 
@@ -26,7 +26,7 @@ Data Definition Language commands in SQL are used for changing the structure of 
 
 #### CREATE
 Used to create tables or databases.
-```
+``` SQL
 CREATE TABLE <table name> ( 
         <attribute name 1> <data type 1>,
         ...
